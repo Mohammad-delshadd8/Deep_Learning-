@@ -10,7 +10,7 @@ Running Steps ...
 
 1- Run prometheus service on port 9091 
 
-2- Run Grafana serevice 
+2- Run Grafana serevice and use dashboard.json file to Import the dashboard which made by #PromQL 
 
 3- Import Python Libratries 
 
