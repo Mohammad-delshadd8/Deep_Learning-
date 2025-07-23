@@ -9,9 +9,9 @@ Running Steps ...
 
 2- Run Grafana serevice and use dashboard.json file to Import the dashboard which made by #PromQL 
 
-3- Import Python Libratries 
+3- Import Python Libratries .
 
-4- Run code and enjoy streaming live result in your dashboiard. 
+4- Run code and enjoy streaming live result in your dashboard. 
 
 
 Result will be: 
